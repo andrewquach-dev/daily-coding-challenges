@@ -1,27 +1,27 @@
 # :trophy: Daily Coding Challenges
 
-This repository is just where I collect my daily coding challenge solutions.
+This repository contains the solutions to the coding challenges I do daily.
 
 ## :thinking: Why?
 
 I do daily challenges for a few reasons:
-* I love a good puzzle and this is quicker than a crossword
-* Daily practice = Repetition of core concepts
-* Love ~~to smash the~~ **friendly** competition
-* What better way to deepen my understanding of the language than to use it?
+* I love to solve puzzles
+* Practice is the key to getting better
+* Improves my syntax by browsing through the clever one-line solutions 
+* Love ~~to destroy the~~ **friendly** competition
 
 ## :notebook: Some Notes
 
-I **love** friendly competition, so if you want to crush me on the leaderboard, feel free to [follow me](https://www.codewars.com/users/a.sasquach) on there and let me know so I can follow you back.
+If you'd like to compete with me feel free to [follow me](https://www.codewars.com/users/a.sasquach) on there and let me know so I can follow you back.
 
-These challenges are a study tool for me, so you'll likely see a lot of repetition of the same challenge. I do this so that I can practice with different methods, or sometimes just for kicks.
+You might have noticed that there are some repeated challenges. The reason behind this is because I'm using these challenges as a learning tool. Sometime I find an awesome solution to a prior challenge and I'll try to practice it again using different methods just for the heck of it.
 
 ## :medal_sports: Current Codewars Stats
 
 Ranked: 5kyu
 
-Total Completed Kata: 166    
-  * 8kyu Completed: 105/407  
+Total Completed Kata: 167    
+  * 8kyu Completed: 106/407  
   * 7kyu Completed: 42/2128
   * 6kyu Completed: 15/2347 
   * 5kyu Completed: 4/992 
