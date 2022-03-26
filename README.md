@@ -5,7 +5,7 @@ This repository contains the solutions to the coding challenges I do daily.
 ## :thinking: Why?
 
 I do daily challenges for a few reasons:
-* I love to solve puzzles
+* I like to solve puzzles
 * Practice is the key to getting better
 * Improves my syntax by browsing through the clever one-line solutions 
 * Love ~~to destroy the~~ **friendly** competition
@@ -20,8 +20,8 @@ You might have noticed that there are some repeated challenges. The reason behin
 
 Ranked: 5kyu
 
-Total Completed Kata: 170    
-  * 8kyu Completed: 109/407  
+Total Completed Kata: 171    
+  * 8kyu Completed: 110/407  
   * 7kyu Completed: 42/2128
   * 6kyu Completed: 15/2347 
   * 5kyu Completed: 4/992 
