@@ -20,8 +20,8 @@ You might have noticed that there are some repeated challenges. The reason behin
 
 Ranked: 5kyu
 
-Total Completed Kata: 186    
-  * 8kyu Completed: 124/407  
+Total Completed Kata: 187    
+  * 8kyu Completed: 125/407  
   * 7kyu Completed: 43/2128
   * 6kyu Completed: 15/2347 
   * 5kyu Completed: 4/992 
