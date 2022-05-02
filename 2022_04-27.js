@@ -1,10 +1,3 @@
-//https://www.codewars.com/kata/55ecd718f46fba02e5000029/solutions/javascript
+//https://www.codewars.com/kata/5f70c883e10f9e0001c89673/solutions/javascript
 
-function between(a, b) {
-  // your code here
-  arr = []
-  for (i = a; i <= b; i++) {
-    arr.push(i)
-  }
-  return arr
-}
+const flip = (d, a) => a.sort((x, y) => d === 'R' ? x - y : y - x);
