@@ -1,22 +1,11 @@
-//https://www.codewars.com/kata/57ee31c5e77282c24d000024/solutions/javascript/me/best_practice
+//https://www.codewars.com/kata/57d1f36705c186d018000813/solutions/javascript/me/best_practice
 
-function paul(x) {
-  let points = {
-    'life': 0,
-    'Petes kata': 10,
-    'kata': 5,
-    'eating': 1
-  }
-  let score = x.reduce((a, e) => a += points[e], 0);
-  console.log(score);
-
-  if (score < 40) {
-    return 'Super happy!';
-  } else if (score < 70 && score >= 40) {
-    return 'Happy!';
-  } else if (score < 100 && score >= 70) {
-    return 'Sad!';
-  } else if (score > 100) {
-    return 'Miserable!'
-  }
+function gordon(a) {
+  return a.split(' ').map(word => {
+    word = word.toUpperCase();
+    word += '!!!!';
+    word = word.replace(/[a]/gi, '@');
+    word = word.replace(/[eiou]/gi, '*');
+    return word;
+  }).join(' ');
 }
