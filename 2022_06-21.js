@@ -1,5 +1,6 @@
-//https://www.codewars.com/kata/585b1fafe08bae9988000314/solutions/javascript?filter=me&sort=best_practice
+//https://www.codewars.com/kata/59d9ff9f7905dfeed50000b0/train/javascript
 
-function explode(s) {
-  return s.split('').map(s => Number(s)).map(n => n.toString().repeat(n)).join('');
-}
+function solve(arr) {
+  var alphabeth = "abcdefghijklmnopqrstuvwxyz";
+  return arr.map(x => x.toLowerCase().split('').filter((y, i) => i == alphabeth.indexOf(y)).length);
+};
