@@ -1,6 +1,6 @@
 //https://www.codewars.com/kata/56414fdc6488ee99db00002c/train/javascript
 
-function absentVowel(x) {
+function absentVowel(x)  {
   let i = null;
   if (!x.toLowerCase().split("").includes("o")) {
     i = 3;
