@@ -1,4 +1,5 @@
-//https://www.codewars.com/kata/57078c56924f34f763000b3f/train/javascript
+//https://www.codewars.com/kata/56269eb78ad2e4ced1000013/train/javascript
 
-let circular ={value:"Hello World"}
-circular.self = circular
+function findNextSquare(sq) {
+  return Math.sqrt(sq) % 1 ? -1 : Math.pow(Math.sqrt(sq) + 1, 2);
+}
