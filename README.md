@@ -7,7 +7,7 @@ This repository contains the solutions to the coding challenges I do daily.
 I do daily challenges for a few reasons:
 * I like to solve puzzles
 * Practice is the key to getting better
-* Improves my syntax by browsing through the clever one-liner solutions 
+* Looking through the clever one-liner solutions helps me improve my answers.
 * Love ~~to destroy the~~ **friendly** competition
 
 ## :notebook: Some Notes
