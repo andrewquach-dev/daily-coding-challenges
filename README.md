@@ -14,7 +14,7 @@ I do daily challenges for a few reasons:
 
 If you'd like to compete with me feel free to [follow me](https://www.codewars.com/users/a.sasquach) on there and let me know so I can follow you back.
 
-You might have noticed that there are some repeated challenges. The reason behind this is because I'm using these challenges as a learning tool. Sometimes I find an awesome solution to a prior challenge and I'll try to practice it again using different methods just for the heck of it.
+You may have noticed that some challenges are repeated. This is due to the fact that I am using these challenges as a learning tool. I'll sometimes find an awesome solution to a previous challenge and try to practice it again using different methods just for fun.
 
 ## :medal_sports: Current Codewars Stats
 
