@@ -17,3 +17,7 @@ function sumEvenFibonacci(limit) {
 
   return sum;
 }
+
+const limit = 4000000;
+const result = sumEvenFibonacci(limit);
+console.log(result); // Output: 4613732
